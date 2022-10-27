@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am Ivan Frasca, a Front-End Developer located in Italy. 
+
+- 🌱 I’m currently learning all the little secret about the front-end developer world, I mainly work with React.js
+
+- 📫 How to reach me: ivanfrasca92@gmail.com
+
+- Happy coding!
+
+
+
 <!--
 **Ivanfras98/Ivanfras98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
