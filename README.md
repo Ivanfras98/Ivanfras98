@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ivan Frasca, a Front-End Developer located in Italy. 
+### I am Ivan Frasca, a Front-End Developer located in Italy. 
 
 - 🌱 I’m currently learning all the little secret about the front-end developer world, I mainly work with React.js
 
